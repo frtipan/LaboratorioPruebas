@@ -1,4 +1,3 @@
-//funciones matematicas
 function sum(a, b) {
   return a + b;
 }
